@@ -1,0 +1,49 @@
+[{
+    "id":"8pce",
+    "name":"LOT DE 8 PCE",
+    "quantity":8,
+    "referenceUnit":"pce"
+  },
+  {
+    "id":"6pce",
+    "name":"LOT DE 6 PCE",
+    "quantity":6,
+    "referenceUnit":"pce"
+  },
+  {
+    "id":"4pce",
+    "name":"LOT DE 4 PCE",
+    "quantity":4,
+    "referenceUnit":"pce"
+  },
+  {
+    "id":"3pce",
+    "name":"LOT DE 3 PCE",
+    "quantity":3,
+    "referenceUnit":"pce"
+  },
+  {
+    "id":"pce",
+    "name":"pce",
+    "quantity":3,
+    "referenceUnit":"kg"
+  },
+  {
+    "id":"kg",
+    "name":"kg",
+    "quantity":1000,
+    "referenceUnit":"g"
+  },
+  {
+    "id":"g",
+    "name":"g",
+    "//":"Modification de Unit g pour économiser du code",
+    "quantity":1,
+    "referenceUnit":"g"
+  },
+  {
+    "id":"cs",
+    "name":"cs",
+    "quantity":20,
+    "referenceUnit":"g"
+  }]
